@@ -39,3 +39,22 @@ body{
     width: 200px;
     height: 200px;
 }
+input{
+    width:70%;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 7px;
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    padding-left: 10px;
+    color: black;
+}
+button{
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    border-radius: 8px;
+    background-color:cadetblue;
+    border: 2px solid black;
+    padding:5px;
+}
